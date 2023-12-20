@@ -2,4 +2,4 @@
 ### i am Jianwei Tong ,a simple java coder from China, Zhejiang, Hangzhou 
 ### welcome to my website : [xiw](https://xiw.asia)
 
-![a random wallpaper](https://xiw.asia/api/wallpaper/random-wallpaper)
+![a random wallpaper](https://xiw.world/api/wallpaper/random-wallpaper)
